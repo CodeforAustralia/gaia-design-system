@@ -49,8 +49,13 @@
 
   "javascript.updateImportsOnFileMove.enabled": "always",
 
+<<<<<<< Updated upstream
   "prettier.configPath": ".prettierrc.json",
   "prettier.requireConfig": true,
+=======
+  // "prettier.configPath": ".prettierrc.json",
+  // "prettier.requireConfig": true,
+>>>>>>> Stashed changes
 
   "window.zoomLevel": 1,
 
@@ -82,6 +87,7 @@
     "opacity: 0.5"
   ],
   "bracket-pair-colorizer-2.colors": [
+<<<<<<< Updated upstream
     // LIGHT THEME COLORS
     // -----------------
     // "darkred",
@@ -128,6 +134,8 @@
     // "snow",
     // "mistyrose"
     //
+=======
+>>>>>>> Stashed changes
     // PRIDE COLOURS - Dark Theme
     // --------------------------
     "#5BCEFA",
