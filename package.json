@@ -1,10 +1,6 @@
 {
   "name": "gaia-design-system",
   "version": "1.0.0",
-<<<<<<< Updated upstream
-  "description": "Design system for Civic Makers",
-  "main": "index.js",
-=======
   "description": "Design system for Civic Makers SeeChange project",
   "main": "index.js",
   "dependencies": {
@@ -635,7 +631,6 @@
     "@storybook/testing-library": "^0.0.14-next.2",
     "create-next-app": "^13.3.0"
   },
->>>>>>> Stashed changes
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "storybook dev -p 6006",
@@ -646,42 +641,15 @@
     "url": "git+https://github.com/CodeforAustralia/gaia-design-system.git"
   },
   "keywords": [
-<<<<<<< Updated upstream
-    "gaia",
-    "storybook",
-    "nextjs",
-    "typescript",
-    "design",
-    "system"
-=======
     "design",
     "system",
     "storybook",
     "gaia"
->>>>>>> Stashed changes
   ],
   "author": "Ricky Liew",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/CodeforAustralia/gaia-design-system/issues"
   },
-<<<<<<< Updated upstream
-  "homepage": "https://github.com/CodeforAustralia/gaia-design-system#readme",
-  "devDependencies": {
-    "@storybook/addon-essentials": "^7.0.2",
-    "@storybook/addon-interactions": "^7.0.2",
-    "@storybook/addon-links": "^7.0.2",
-    "@storybook/blocks": "^7.0.2",
-    "@storybook/cli": "^7.0.2",
-    "@storybook/nextjs": "^7.0.2",
-    "@storybook/react": "^7.0.2",
-    "@storybook/testing-library": "^0.0.14-next.2",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "storybook": "^7.0.2"
-  },
-  "peerDependencies": {}
-=======
   "homepage": "https://github.com/CodeforAustralia/gaia-design-system#readme"
->>>>>>> Stashed changes
 }

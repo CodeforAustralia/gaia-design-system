@@ -49,13 +49,8 @@
 
   "javascript.updateImportsOnFileMove.enabled": "always",
 
-<<<<<<< Updated upstream
-  "prettier.configPath": ".prettierrc.json",
-  "prettier.requireConfig": true,
-=======
   // "prettier.configPath": ".prettierrc.json",
   // "prettier.requireConfig": true,
->>>>>>> Stashed changes
 
   "window.zoomLevel": 1,
 
@@ -87,55 +82,6 @@
     "opacity: 0.5"
   ],
   "bracket-pair-colorizer-2.colors": [
-<<<<<<< Updated upstream
-    // LIGHT THEME COLORS
-    // -----------------
-    // "darkred",
-    // "orangered",
-    // "darkkhaki",
-    // "darkgreen",
-    // "navy",
-    // "indigo",
-    // "palevioletred",
-    // "darkslategray",
-    // "brown"
-    //
-    // PRIDE COLOURS - Light Theme
-    // --------------------------
-    // "#000000",
-    // "#784F17",
-    // "#D12229",
-    // "#007940",
-    // "#24408E",
-    // "#800080",
-    // "#F68C1E",
-    // "#0D8040",
-    // "#3E5FAC",
-    // "#732A85",
-    // "#8869A5",
-    // "#800080",
-    // "#FD8BA8",
-    // "#C76BC5",
-    // "#FDD768"
-    //
-    //
-    // DARK THEME COLOURS
-    // ------------------
-    //"lightsalmon",
-    // "gold",
-    // "peachpuff",
-    // "chartreuse",
-    // "lightblue",
-    // "thistle",
-    // "fuchsia",
-    // "pink",
-    // "honeydew",
-    // "blanchedalmond",
-    // "snow",
-    // "mistyrose"
-    //
-=======
->>>>>>> Stashed changes
     // PRIDE COLOURS - Dark Theme
     // --------------------------
     "#5BCEFA",
